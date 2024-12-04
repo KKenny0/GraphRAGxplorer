@@ -1,0 +1,7 @@
+graphrag_cache*/
+.idea
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode
+.DS_Store
